@@ -30,7 +30,7 @@ if ans1 == "a":
   energy: ''' + textenergy)
 
 if ans1 == "b":
-  energy-=3
+  energy-=15
   textenergy = str(energy)
   print('''
   you open the door and lose 15 energy.
