@@ -1,3 +1,9 @@
+- # To Do
+  -[x] add dialogue_a
+    -[] add dialogue_a_a
+    -[] add dialogue_a_b
+    -[] add dialogue_a_c
+
 - # List:
 
 - **dialogue_a** = ('''you have been knocked out and are in a empty room... what do you do? <br />
