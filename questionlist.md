@@ -1,8 +1,8 @@
 - # To Do
-  -[x] add dialogue_a
-    -[] add dialogue_a_a
-    -[] add dialogue_a_b
-    -[] add dialogue_a_c
+  - [x] add dialogue_a
+    - [ ] add dialogue_a_a
+    - [ ] add dialogue_a_b
+    - [ ] add dialogue_a_c
 
 - # List:
 
