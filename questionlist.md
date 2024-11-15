@@ -18,4 +18,4 @@ c. look for the lights''')
     - **dialogue_a_c** = ('''you look for the lights and trip. you trip on some gooey thing, hitting your head on the lights. you lose 10 hp and 10 energy... what do you do? <br />
       a. you examine the gooey thing <br />
       b. you go open the back door <br />
-      c. you examine the crack in the wall <br />''')
+      c. you examine the crack in the wall''')
